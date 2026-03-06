@@ -25,8 +25,8 @@ This repository contains a beautiful, responsive personal portfolio built using 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
+   git clone https://github.com/shubhamtadas/my-portfolio.git
+   cd my-portfolio
    ```
 
 2. **Install dependencies:**
